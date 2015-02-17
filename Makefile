@@ -1,11 +1,9 @@
 all: dependencies test
 
 test:
-	# TODO: Run the tests here
+	npm test
 
 dependencies:
-	# TODO: Check to see if dependencies are satisfied, and install them if
-	# not. You can use the bash `||` operator to easily take action on a
-	# failure.
+	npm install
 
 .PHONY: all dependencies test
