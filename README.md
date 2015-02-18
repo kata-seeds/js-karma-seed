@@ -1,4 +1,4 @@
-# [Kata Seeds](https://github.com/kata-seeds): JavaScript + Karma (with Jasmine)
+# [Kata Seeds](http://kata-seeds.github.io): JavaScript + Karma (with Jasmine)
 [![Build Status](https://travis-ci.org/kata-seeds/js-karma-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/js-karma-seed)
 
 ## Getting Started
