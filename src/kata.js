@@ -1,3 +1,3 @@
 function Person() {
-  return { greet: "Hello!" }
+  return { greet: "Hello!" };
 }
