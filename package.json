@@ -11,10 +11,10 @@
   "license": "MIT",
   "homepage": "https://github.com/kata-seeds/js-karma-seed",
   "devDependencies": {
-    "jasmine-core": "^2.2.0",
-    "karma": "^0.12.31",
-    "karma-jasmine": "^0.3.5",
-    "karma-phantomjs-launcher": "^0.1.4",
-    "phantomjs": "^1.9.19"
+    "jasmine-core": "^2.8.0",
+    "karma": "^2.0.0",
+    "karma-jasmine": "^1.1.1",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "phantomjs": "^2.1.7"
   }
 }
